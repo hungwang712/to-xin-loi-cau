@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+}
+
+.headline {
+    font-size: 36px;
+    color: #e74c3c;
+}
+
+.apology-message {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.forgive-button {
+    background-color: #3498db;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.forgive-button:hover {
+    background-color: #2980b9;
+}
+
+#forgiveness-message {
+    font-size: 22px;
+    margin-top: 20px;
+    color: #2ecc71;
+}
